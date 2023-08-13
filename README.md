@@ -1,4 +1,4 @@
-# MyCLI - Commander.js Boilerplate
+# Commander.js CLI Boilerplate
 
 This project is a boilerplate for creating a Node.js-based Command-Line Interface (CLI) application using Commander.js. Commander.js is a library that helps you build command-line applications quickly.
 
